@@ -35,7 +35,7 @@
 - [Technology Stack](#-technology-stack)
 - [Getting Started](#-getting-started)
 - [Project Structure](#-project-structure)
-- [Hackathon](#-hackathon)
+
 
 ---
 
